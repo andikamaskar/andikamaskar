@@ -61,7 +61,7 @@ My work sits at the intersection of **software engineering, educational technolo
 
 <p align="center">
   <a href="https://github.com/andikamaskar">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=andikamaskar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Andika's GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=andikamaskar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Andika's GitHub stats" />
   </a>
   <a href="https://github.com/andikamaskar">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikamaskar&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
